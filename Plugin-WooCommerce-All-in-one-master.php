@@ -4,7 +4,7 @@
  * Plugin Name: WooCommerce Tap Payment Gateway
  * Plugin URI: 
  * Description: Take credit card payments on your store. (Features : All In One - Popup, Redirect, Tokenization)
- * Author: Waqas Zeeshan
+ * Author: Munir Ahmed
  * Author URI: https://tap.company/
  * Version: 2.1
  */
@@ -814,4 +814,5 @@ function tap_init_gateway_class() {
 	 		}
 		}
    }
+
 }
